@@ -9,6 +9,7 @@ module.exports = {
     SESSION_ID: process.env.SESSION_ID || "76hxGBpA#YSsc6Q-n-IXkgYit6l1mM2XH5Ttg3HgpOGKBsa-eRiU",
     CAPTION: process.env.CAPTION || "POWERED BY *Arooj Zahid*",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+    AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
     MODE: process.env.MODE || "private",
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
@@ -20,6 +21,9 @@ module.exports = {
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || ".",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
+    FAKE_TYPING: process.env.FAKE_TYPING || "false",
+    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
+    CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",

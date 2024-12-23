@@ -76,7 +76,7 @@
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
@@ -118,6 +118,27 @@
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
       "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂"
+    },
+    "AUTO_REPLY_STATUS": {
+      "description": "you can true or false it.",
+      "required": true,
+      "value": "true"
+    }, 
+
+    "ALWAYS_ONLINE": {
+      "description": "make it true if you want to show always online.",
+      "required": true,
+      "value": "true"
+    }, 
+    "FAKE_TYPING": {
+      "description": "make it true if you want to show fake typing.",
+      "required": true,
+      "value": "true"
+    }, 
+    "CURRENT_STATUS": {
+      "description": "make it true if you to show your reail last seen.",
+      "required": true,
+      "value": "false"
     }
 
 
