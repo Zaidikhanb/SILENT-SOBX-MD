@@ -1,7 +1,7 @@
 {
   "name": "ZAID★BADANA +923299931199 -MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ZAID★BADANA +923299931199 ",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "logo": "https://i.ibb.co/WfVH0yv/Screenshot-20241222-092014.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://telegra.ph/file/2a06381b260c3f096a612.jpg"
+      "value": "https://i.ibb.co/WfVH0yv/Screenshot-20241222-092014.jpg"
     }, 
     
     "ALIVE_MSG": {
