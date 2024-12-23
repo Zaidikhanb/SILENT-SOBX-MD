@@ -1,6 +1,6 @@
 {
-  "name": "SILENT-SOBX-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
+  "name": "ZAID★BADANA +923299931199 -MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ZAID★BADANA +923299931199 ",
   "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -46,13 +46,13 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -95,13 +95,13 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "✦ZAID★BADANA★+923299931199✦"
     }, 
 
     "HEART_REACT": {
       "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "READ_MESSAGE": {
@@ -112,12 +112,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SILENTLOVER432"
+      "value": "POWERED BY ZAID★BADANA★+923299931199"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω ZAID★BADANA★+923299931199"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
